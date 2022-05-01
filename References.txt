@@ -1,3 +1,6 @@
 https://www.youtube.com/watch?v=2DmK_H7IdTo (Explanation of Heap Sort Algorithm)
 https://www.geeksforgeeks.org/heap-sort/ (Implementation of Heap Sort Algorithm in Python)
 https://python.plainenglish.io/taking-multiple-inputs-from-user-in-python-3-6cbe02d03a95 (Multi-Variable Inputs)
+https://stackoverflow.com/questions/54078858/why-is-the-time-complexity-of-heap-sort-onlogn (Understanding of time Complexity)
+https://medium.com/nerd-for-tech/the-big-o-18fea712ae6b (Better understanding of time complexity)
+https://numpy.org/doc/stable/reference/random/index.html (Random Number)
